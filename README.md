@@ -1,1 +1,2 @@
-# HelloWorld
+# SelfStudy Guide
+Resources
